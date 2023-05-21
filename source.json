@@ -1,5 +1,5 @@
 {
-    "name":"tp.jp",
+    "name":"TpLab",
     "id":"io.github.tp-jp.vpm",
     "url":"https://tp-jp.github.io/vpm-repos/index.json",
     "author":{
@@ -7,9 +7,9 @@
         "name":"tp.jp",
         "url":"https://tp-jp.github.io/vpm-repos"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"TpLab packages.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/tp-jp/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
