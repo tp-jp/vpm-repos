@@ -1,6 +1,9 @@
 name: Build Repo Listing
 
-on: 
+on:
+  repository_dispatch:
+    types:
+      - on-demand-build
   workflow_dispatch:
   push:
     branches: main
