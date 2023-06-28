@@ -16,7 +16,8 @@
     "githubRepos":[
         "tp-jp/iwa-sync3-color-changer",
         "tp-jp/collider-generator",
-        "tp-jp/light-probe-generator"
+        "tp-jp/light-probe-generator",
+        "tp-jp/udon-sharp-config-restorer"
     ],
     "packages":[]
 }
