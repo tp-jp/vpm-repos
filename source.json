@@ -17,7 +17,7 @@
         "tp-jp/iwa-sync3-color-changer",
         "tp-jp/collider-generator",
         "tp-jp/light-probe-generator",
-        "tp-jp/udon-sharp-config-restorer",
+        "tp-jp/udon-sharp-restorer",
         "tp-jp/vrc-url-input-field-resolver"
     ],
     "packages":[]
