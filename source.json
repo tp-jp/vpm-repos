@@ -18,7 +18,8 @@
         "tp-jp/collider-generator",
         "tp-jp/light-probe-generator",
         "tp-jp/vrc-url-input-field-resolver",
-        "tp-jp/udon-monitoring"
+        "tp-jp/udon-monitoring",
+        "tp-jp/material-builder"
     ],
     "packages":[]
 }
