@@ -19,7 +19,8 @@
         "tp-jp/light-probe-generator",
         "tp-jp/vrc-url-input-field-resolver",
         "tp-jp/udon-monitoring",
-        "tp-jp/material-builder"
+        "tp-jp/material-builder",
+        "tp-jp/object-painter"
     ],
     "packages":[]
 }
