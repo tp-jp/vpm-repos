@@ -20,7 +20,8 @@
         "tp-jp/vrc-url-input-field-resolver",
         "tp-jp/udon-monitoring",
         "tp-jp/material-builder",
-        "tp-jp/object-painter"
+        "tp-jp/object-painter",
+        "tp-jp/SceneFlow"
     ],
     "packages":[]
 }
