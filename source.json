@@ -21,7 +21,8 @@
         "tp-jp/udon-monitoring",
         "tp-jp/material-builder",
         "tp-jp/object-painter",
-        "tp-jp/SceneFlow"
+        "tp-jp/SceneFlow",
+        "tp-jp/SceneResolver"
     ],
     "packages":[]
 }
