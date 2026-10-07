@@ -22,7 +22,9 @@
         "tp-jp/material-builder",
         "tp-jp/object-painter",
         "tp-jp/SceneFlow",
-        "tp-jp/SceneResolver"
+        "tp-jp/SceneResolver",
+        "tp-jp/Flux",
+        "tp-jp/FluxFX"
     ],
     "packages":[]
 }
